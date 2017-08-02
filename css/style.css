@@ -266,14 +266,14 @@ code {
 .logo {
   display: block;
   padding: 10px 0;
-  width: 120px;
-  height: 100px;
-  background-image: url("");
+  width: 100px;
+  height: 120px;
+  background-image: url("/images/fengx200.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 120px 100px;
-  -moz-background-size: 120px 100px;
-  background-size: 120px 100px;
+  -webkit-background-size: 100px 120px;
+  -moz-background-size: 100px 120px;
+  background-size: 100px 120px;
 }
 .main-body {
   margin-top: -60px;
@@ -349,6 +349,10 @@ code {
 }
 #header-title {
   text-align: center;
+  background-image: url("/images/ui/banner.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
   padding: 30px 30px;
 }
 #header-title:before,
@@ -370,7 +374,7 @@ code {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 110px;
+  line-height: 130px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -1618,11 +1622,11 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 96px;
-  height: 80px;
-  -webkit-background-size: 96px 80px;
-  -moz-background-size: 96px 80px;
-  background-size: 96px 80px;
+  width: 80px;
+  height: 96px;
+  -webkit-background-size: 80px 96px;
+  -moz-background-size: 80px 96px;
+  background-size: 80px 96px;
 }
 i.icon {
   display: inline-block;
@@ -2134,12 +2138,12 @@ a[rel^="external"]:after {
   text-decoration: none;
   padding-left: 3px;
 }
-a[href^="http://www.yuxifan.com"]:after,
+a[href^="http://www.fengyankui.com"]:after,
 a.no_icon:after {
   content: "" !important;
   padding-left: 0;
 }
-a[href^="https://www.yuxifan.com"]:after,
+a[href^="https://www.fengyankui.com"]:after,
 a.no_icon:after {
   content: "" !important;
   padding-left: 0;
