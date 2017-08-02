@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>燕奎博客</title>
+  <subtitle>冯燕奎个人博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.fengyankui.com/"/>
+  <updated>2017-08-02T12:32:51.315Z</updated>
+  <id>https://www.fengyankui.com/</id>
+  
+  <author>
+    <name>Yankui</name>
+    <email>fengyankui@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>孩子Y2 SATS考试</title>
+    <link href="https://www.fengyankui.com/y2-sats/"/>
+    <id>https://www.fengyankui.com/y2-sats/</id>
+    <published>2017-08-02T09:00:12.000Z</published>
+    <updated>2017-08-02T12:32:51.315Z</updated>
+    
+    <content type="html"><![CDATA[<p>到了期末了，孩子也放假了，同时也收到了孩子二年级SATS考试成绩。看了一下，感觉数学很简单，英语真心不容易啊。。。</p>
+<p>来，先看几道算术题：</p>
+<p><img src="/images/kids/sats/1.png" alt=""><br><img src="/images/kids/sats/2.png" alt=""><br><img src="/images/kids/sats/3.png" alt=""></p>
+<p>再来看几道Math reasoning，数学方面的推理题：</p>
+<p><img src="/images/kids/sats/4.png" alt=""><br><img src="/images/kids/sats/5.png" alt=""><br><img src="/images/kids/sats/6.png" alt=""><br><img src="/images/kids/sats/7.png" alt=""></p>
+<p>英语方面主要考的是拼写，语法，句法等：</p>
+<p><img src="/images/kids/sats/8.png" alt=""><br><img src="/images/kids/sats/9.png" alt=""><br><img src="/images/kids/sats/10.png" alt=""><br><img src="/images/kids/sats/11.png" alt=""></p>
+<p>除此之外，还有英语的阅读理解，感觉非常像雅思考试。</p>
+<p>国内的家长们怎么感觉？国内二年级的语文考试难度和这个比怎样？</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;到了期末了，孩子也放假了，同时也收到了孩子二年级SATS考试成绩。看了一下，感觉数学很简单，英语真心不容易啊。。。&lt;/p&gt;
+&lt;p&gt;来，先看几道算术题：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/kids/sats/1.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src
+    
+    </summary>
+    
+      <category term="育儿" scheme="https://www.fengyankui.com/categories/%E8%82%B2%E5%84%BF/"/>
+    
+    
+      <category term="SATS" scheme="https://www.fengyankui.com/tags/SATS/"/>
+    
+  </entry>
+  
+</feed>
