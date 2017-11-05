@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.fengyankui.com/"/>
-  <updated>2017-10-30T17:41:29.241Z</updated>
+  <updated>2017-11-05T22:34:33.944Z</updated>
   <id>https://www.fengyankui.com/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>英国的Bonfire night</title>
+    <link href="https://www.fengyankui.com/bonfire-night/"/>
+    <id>https://www.fengyankui.com/bonfire-night/</id>
+    <published>2017-11-05T22:00:12.000Z</published>
+    <updated>2017-11-05T22:34:33.944Z</updated>
+    
+    <content type="html"><![CDATA[<p>今晚是英国的Bonfire night，也叫Guy Fawkes Night。全英各地举行各种活动，所有活动的主题就是篝火和烟花。据说是为了纪念历史上的一个著名的阴谋被破坏的事件。当年一个名叫Guy Fawkes的人因为不满国王James I，也就是苏格兰历史上的James VI的宗教迫害，带领一群极端的天主教徒准备在国王开会期间将国王炸死，后来事情因为一位猪队友泄密而被国王发现。Guy Fawkes被国王处死，而这一天则被人们庆祝阴谋被粉碎，慢慢的成了英国最热闹的一个夜晚，而这一天慢慢的变成和宗教无关了。</p>
+<p><img src="/images/life/bonfire-night.jpg" alt=""></p>
+<p>本来打算去York Maze参加一下活动，可没有想到票竟然早早就卖光了，只好自己买了些烟花在家意思一下了。好在今年邻居家好大手笔，燃放各种漂亮烟花近半个小时，我们也算免费欣赏了一下。</p>
+<p><img src="/images/life/bonfire-night2.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今晚是英国的Bonfire night，也叫Guy Fawkes Night。全英各地举行各种活动，所有活动的主题就是篝火和烟花。据说是为了纪念历史上的一个著名的阴谋被破坏的事件。当年一个名叫Guy Fawkes的人因为不满国王James I，也就是苏格兰历史上的James
+    
+    </summary>
+    
+      <category term="生活" scheme="https://www.fengyankui.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="Bonfire night" scheme="https://www.fengyankui.com/tags/Bonfire-night/"/>
+    
+  </entry>
   
   <entry>
     <title>在Burnby Hall渡过的愉快周末</title>
@@ -630,36 +656,6 @@
       <category term="万圣节" scheme="https://www.fengyankui.com/tags/%E4%B8%87%E5%9C%A3%E8%8A%82/"/>
     
       <category term="Halloween" scheme="https://www.fengyankui.com/tags/Halloween/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>带孩子做科学实验系列之：用柠檬做电池并点亮灯泡！</title>
-    <link href="https://www.fengyankui.com/lemon-battery/"/>
-    <id>https://www.fengyankui.com/lemon-battery/</id>
-    <published>2017-10-04T21:00:12.000Z</published>
-    <updated>2017-10-05T10:36:47.991Z</updated>
-    
-    <content type="html"><![CDATA[<p>今天给大家介绍一个非常简单但很吸引孩子眼球的的实验：用柠檬做电池并点亮灯泡！</p>
-<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>一个3V的LED小灯泡<br>5个柠檬<br>6根导线<br>5根小铜棍<br>5个镀锌的螺丝钉，不是钢钉喔</p>
-<h2 id="开始实验"><a href="#开始实验" class="headerlink" title="开始实验"></a>开始实验</h2><p>首先，用手挤压柠檬，也可以按着柠檬在桌子上转动。这样做的目的是让柠檬内部产生更多的果汁。这样可以达到最好的实验效果。</p>
-<p>接下来把小铜棍和螺丝钉分别插到柠檬的两端。</p>
-<p>然后把柠檬用导线连接，要注意连接次序。比如：铜棍段只能和螺丝端相连。</p>
-<p>把两端引出的导线分别接在小灯泡上，你会看到，灯亮了！</p>
-<p>这个实验说明了铜和锌两种金属的化学属性是不一样的。铜希望接受更多的电子，而锌周围的电子比较松散因此较容易释放电子，而柠檬汁的酸性较强，容易导电，这样就形成了电流，一个柠檬能形成不到1V的电压，因此需要至少4个柠檬才能点亮3V的灯泡。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;今天给大家介绍一个非常简单但很吸引孩子眼球的的实验：用柠檬做电池并点亮灯泡！&lt;/p&gt;
-&lt;h2 id=&quot;准备&quot;&gt;&lt;a href=&quot;#准备&quot; class=&quot;headerlink&quot; title=&quot;准备&quot;&gt;&lt;/a&gt;准备&lt;/h2&gt;&lt;p&gt;一个3V的LED小灯泡&lt;br&gt;5个柠檬&lt;br&gt;6
-    
-    </summary>
-    
-      <category term="育儿" scheme="https://www.fengyankui.com/categories/%E8%82%B2%E5%84%BF/"/>
-    
-    
-      <category term="科学实验" scheme="https://www.fengyankui.com/tags/%E7%A7%91%E5%AD%A6%E5%AE%9E%E9%AA%8C/"/>
     
   </entry>
   
